@@ -14,3 +14,17 @@ li {
     background-color: purple;
   }
 }
+
+.magic {
+  text-align: center;
+  font-size: 18px;
+}
+
+#header{
+  text-align: center;
+}
+
+body{
+  background-color: #a4f442;
+  margin: 150px;
+}
